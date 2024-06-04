@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-planner/static/css/main.2a70a18c.css",
-    "main.js": "/my-planner/static/js/main.9f2d87c8.js",
+    "main.js": "/my-planner/static/js/main.95534eb0.js",
     "static/media/MainLandingPageHero.png": "/my-planner/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/AgencyLandingPage.jpeg": "/my-planner/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/my-planner/static/media/HotelTravelLandingPage.7cba2215c02e6e82fc39.jpeg",
@@ -93,10 +93,10 @@
     "static/media/arrow-right-3-icon.svg": "/my-planner/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "static/media/handle-icon.svg": "/my-planner/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.2a70a18c.css.map": "/my-planner/static/css/main.2a70a18c.css.map",
-    "main.9f2d87c8.js.map": "/my-planner/static/js/main.9f2d87c8.js.map"
+    "main.95534eb0.js.map": "/my-planner/static/js/main.95534eb0.js.map"
   },
   "entrypoints": [
     "static/css/main.2a70a18c.css",
-    "static/js/main.9f2d87c8.js"
+    "static/js/main.95534eb0.js"
   ]
 }
