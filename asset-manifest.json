@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-planner/static/css/main.2a70a18c.css",
-    "main.js": "/my-planner/static/js/main.95534eb0.js",
+    "main.js": "/my-planner/static/js/main.b02749b9.js",
     "static/media/MainLandingPageHero.png": "/my-planner/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/AgencyLandingPage.jpeg": "/my-planner/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/my-planner/static/media/HotelTravelLandingPage.7cba2215c02e6e82fc39.jpeg",
@@ -25,6 +25,7 @@
     "static/media/email-illustration.svg": "/my-planner/static/media/email-illustration.84fb82b841c197337a4bc2c1e660d5a0.svg",
     "static/media/LoginPage.jpeg": "/my-planner/static/media/LoginPage.833169df5e8e9f047b15.jpeg",
     "static/media/customers-logo-strip.png": "/my-planner/static/media/customers-logo-strip.680ac7c2e8ae28161d2c.png",
+    "static/media/logo512.png": "/my-planner/static/media/logo512.bb179e91de685d593732.png",
     "static/media/prototype-illustration.svg": "/my-planner/static/media/prototype-illustration.21bc4b3f612a2f257c3d361067582485.svg",
     "static/media/team-illustration-2.svg": "/my-planner/static/media/team-illustration-2.76aa0427e037826d4453f8791ee544e3.svg",
     "static/media/dot-pattern.svg": "/my-planner/static/media/dot-pattern.ee6f4f0e6654d6e38850896165f9dc36.svg",
@@ -93,10 +94,10 @@
     "static/media/arrow-right-3-icon.svg": "/my-planner/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "static/media/handle-icon.svg": "/my-planner/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.2a70a18c.css.map": "/my-planner/static/css/main.2a70a18c.css.map",
-    "main.95534eb0.js.map": "/my-planner/static/js/main.95534eb0.js.map"
+    "main.b02749b9.js.map": "/my-planner/static/js/main.b02749b9.js.map"
   },
   "entrypoints": [
     "static/css/main.2a70a18c.css",
-    "static/js/main.95534eb0.js"
+    "static/js/main.b02749b9.js"
   ]
 }
